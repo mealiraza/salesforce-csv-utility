@@ -1,0 +1,5 @@
+Record Index,Error Messages,Failed Record
+"1160","Required fields are missing: [Account__c]","{"Invoice_NS_Id__c":"INV698824","NS_Created_Date__c":"2024-07-01T21:10:00"}"
+"1313","Duplicate external id specified: inv69590","{"Invoice_NS_Id__c":"INV69590","NS_Created_Date__c":"2024-06-28T02:10:00"}"
+"1314","Duplicate external id specified: inv69590","{"Invoice_NS_Id__c":"INV69590","NS_Created_Date__c":"2024-06-28T02:11:00"}"
+"14473","Required fields are missing: [Account__c]","{"Invoice_NS_Id__c":"INV713835","NS_Created_Date__c":"2025-06-16T02:23:00"}"

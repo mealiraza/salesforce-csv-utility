@@ -1,0 +1,17 @@
+{
+  "name": "salesforce-utility",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.2.1",
+    "fs": "^0.0.1-security",
+    "jsforce": "^3.9.5"
+  }
+}
